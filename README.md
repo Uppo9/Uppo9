@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Uppo9
+- 👀 I’m interested in ...
+Computer security, operating systems, and game develpment.
+- 🌱 I’m currently learning ...
+Cs50, which in itself is a good place to begin for me as a beginner
+- 💞️ I’m looking to collaborate on ...
+Really nothing right now.
+- 📫 How to reach me ...
+email: uppo9.protonmail.com
+<!---
+Uppo9/Uppo9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
